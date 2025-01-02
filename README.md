@@ -1,4 +1,4 @@
-👋 Oi, me chamo Henrique!
+👋 Olá, me chamo Henrique!
 
 🇧🇷 Em Português:
 
