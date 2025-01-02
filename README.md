@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Oi, me chamo Henrique!
 
-<!--
-**HenriquePrudencio/HenriquePrudencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Em Português:
 
-Here are some ideas to get you started:
+📖 Sou formado em Análise e Desenvolvimento de Sistemas, pela faculdade Senac, sou apaixonado por tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Atualmente, estou focado no aprimoramento das minhas habilidades em Python e HTML.
+
+📧 Sinta-se à vontade para enviar suas perguntas, comentários ou oportunidades de colaboração para henriquejprudencio@gmail.com.
+
+🇺🇸 In English:
+
+📖 Hello there! I have a degree in Systems Analysis and Development from Senac College and I am passionate about technology.
+
+💼 Currently, my main focus lies in refining my skills in Python and HTML.
+
+📧 Please feel free to reach out with any questions, comments, or collaboration opportunities to henriquejprudencio@gmail.com.
